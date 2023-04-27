@@ -5,8 +5,7 @@ My name is João Pedro Jardim Rodrigues, and I'm a graduate student of software 
 
 This year i have been studying in [@minderacodeacademy](https://minderacodeacademy.com/).  During this time, i have learned multiple tools from BackEnd and FrontEnd perspectives.
 
-📫 Contact me at [@LINKEDIN] (https://www.linkedin.com/in/jo%C3%A3o-pedro-jardim-rodrigues/).
-
+📫 Contact me at [@LINKEDIN](https://www.linkedin.com/in/jo%C3%A3o-pedro-jardim-rodrigues/).
 
 
 <!--
