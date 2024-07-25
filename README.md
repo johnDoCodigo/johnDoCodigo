@@ -5,7 +5,7 @@ My name is João Pedro Jardim Rodrigues, and I'm a graduate student of software 
 
 Start studying in [@minderacodeacademy](https://minderacodeacademy.com/) in 2023.  During this time, i have learned multiple tools from BackEnd and FrontEnd perspectives.
 
-Working on [@Atena-AI](www.https://www.atena-ai.pt/) and [@Hashdash](https://hashdash.com/)
+Working on [@Atena-AI](https://www.atena-ai.pt/) and [@Hashdash](https://hashdash.com/)
 
 📫 Contact me at [@LINKEDIN](https://www.linkedin.com/in/jo%C3%A3o-pedro-jardim-rodrigues/).
 
